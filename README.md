@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Daniil Sobolev
 
 **Full-stack developer | 3+ years | Vue.js & Laravel**  
+[Resume](https://drive.google.com/drive/folders/1KGPBXt0eA4lbFw1wWTDoMR4aeoUx4b7s?usp=sharing)
 
 ## 💡 About Me
 Full-stack developer with 3 years of experience building scalable web applications.  
