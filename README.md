@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**sobolev-daniil/sobolev-daniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Daniil Sobolev
 
-Here are some ideas to get you started:
+**Full-stack developer | 3+ years | Vue.js & Laravel**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+Full-stack developer with 3 years of experience building scalable web applications.  
+- Experienced in the **full development cycle**: from requirements gathering to fault-tolerant releases.
+- Skilled in OOP, modern declarative UIs, and microservice-based architectures.
+- **Proactive communicator**: value transparency, ask critical questions, and collaborate across departments.
+- Focused on delivering tangible results, building scalable solutions, and improving code quality & developer experience.
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** Vue.js | Vuex | Pinia | TypeScript | JavaScript | TailwindCSS | HTML | CSS | SCSS  
+**Backend:** Laravel | PHP | Symfony | PostgreSQL | MySQL | Redis | Elasticsearch | GraphQL | REST/SOAP  
+**Other:** Git | GitFlow | CI/CD | Docker | PHPUnit | Jest | Linux | Agile/Scrum | Jira  
